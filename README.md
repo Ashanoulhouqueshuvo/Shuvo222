@@ -1,5 +1,5 @@
 # Shuvo222
-1 to n number sum 
+1 to n number sum (dynamic)
 #include<stdio.h>
 void main()
 {
